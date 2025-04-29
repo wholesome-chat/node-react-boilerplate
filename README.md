@@ -48,8 +48,7 @@ Videocall | Using WebRTC allow users to have 1:1 calls and videocalls. You can l
 
 ¹
 
-![image](https://github.com/user-attachments/assets/72393a2c-8674-440e-8847-9f9a97b638ec)
-
+![image](https://github.com/user-attachments/assets/60623126-9b66-470d-b8f8-2d6bff229263)
 
 ²
 
